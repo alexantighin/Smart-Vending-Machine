@@ -7,7 +7,11 @@ Lucrarea aleasă are ca temă principală dezvoltarea unui sistem ce permite rec
 Pentru atingerea obiectivului general al proiectului s-au urmărit câteva puncte principale de proiectare precum, construcția fizică a unui sistem capabil să distribuie produse, oferirea posibilității mai multor utilizatori de a accesa sistemul și eliminarea sarcinilor utilizatorului care nu sunt neapărat esențiale, cum ar fi o autentificare clasică de tip nume_utilizator și parolă. Subiectul propus are ca rezultat final îndeplinea unei acțiuni fizice, fapt pentru care am stabilit că pentru a proiecta cu succes această aplicație există nevoia unei componente hardware, dar și a
 unei componente software necesare pentru a pune în valoare întreg sistemul. 
 
-## Schema Circuitului
+<p align="center">
+  <img src="https://i.ibb.co/12w3Lc4/Screenshot-1.png">
+</p>
+
+## Schema circuitului
 
 <p align="center">
   <img src="https://i.ibb.co/MBvXvCX/Schema-circuitului.png">
