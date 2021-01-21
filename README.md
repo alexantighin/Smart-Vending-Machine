@@ -17,5 +17,17 @@ unei componente software necesare pentru a pune în valoare întreg sistemul.
   <img src="https://i.ibb.co/MBvXvCX/Schema-circuitului.png">
 </p>
 
-## Utilizare
+## Interfața
+
+<p align="center">
+  <img src="https://i.ibb.co/9qZKJBb/Screenshot-2.png">
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/fYDbLjL/Screenshot-3.png">
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/bvQ2H99/Screenshot-4.png">
+</p>
 
