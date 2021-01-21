@@ -1,0 +1,2 @@
+# Smart-Vending-Machine
+Licenta
